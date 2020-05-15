@@ -3,6 +3,14 @@ Main goal of this project is to make life easier. The easiest way which helps yo
 Done with love!
 Name of out prjocet is "Air sensor" because light bulbs chanhe colors, when air temperature changes
 
+DHT11 Technical Specifications :
+
+Humidity Range: 20-90% RH
+Humidity Accuracy: ±5% RH
+Temperature Range: 0-50 °C
+Temperature Accuracy: ±2% °C
+Operating Voltage: 3V to 5.5V
+
 # Team
 * Bakytbek uulu Zhanbolot
 * Kachykeev Alisher
