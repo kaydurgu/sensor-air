@@ -11,6 +11,7 @@ Name of out prjocet is "Air sensor" because light bulbs chanhe colors, when air 
 
 # Images
 ![Schematic](images/scheme.png)
+<img width="576" alt="cover" src="https://user-images.githubusercontent.com/56904464/82047690-13a4f680-96d5-11ea-9aeb-ac387b477684.PNG">
 ![Cover](images/cover.png)
 ![Lower cover](images/lowerpart.png)
 ![Assembly](images/assembly.png)
