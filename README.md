@@ -3,19 +3,20 @@ Main goal of this project is to make life easier. The easiest way which helps yo
 Done with love!
 Name of out prjocet is "Air sensor" because light bulbs chanhe colors, when air temperature changes
 
-# How works
-DHT11 Technical Specifications :
-Humidity Range: 20-90% RH
-Humidity Accuracy: ±5% RH
-Temperature Range: 0-50 °C
-Temperature Accuracy: ±2% °C
-Operating Voltage: 3V to 5.5V
+# DHT11 Technical Specifications :
 
+Humidity Range: 20-90% RH <br>
+Humidity Accuracy: ±5% RH <br>
+Temperature Range: 0-50 °C <br>
+Temperature Accuracy: ±2% °C <br>
+Operating Voltage: 3V to 5.5V <br>
 
-3-LED setup has been initiated with the following :
-If the temperature is below 22℃, the Cold LED will glow. (Green)
-If the temperature is between 22 - 35℃, the Hot LED will glow. (Yellow)
-If the temperature is above 35℃, the Extreme LED will glow. (Red)
+--------
+# 3-LED setup has been initiated with the following :
+
+If the temperature is below 22℃, the Cold LED will glow. (Green) <br>
+If the temperature is between 22 - 35℃, the Hot LED will glow. (Yellow) <br>
+If the temperature is above 35℃, the Extreme LED will glow. (Red) <br>
 
 # Team
 * Bakytbek uulu Zhanbolot
